@@ -2,7 +2,7 @@
 - 👀 I'm interested in technology subjects;
 - 🌱 I am currently studying Technology in Systems Development;
 - 📫 How to contact me emanoel.santos5@etec.sp.gov.br
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He
 - ⚡ Curiosity: I have a degree in the humanities, administration and now I'm venturing into technology.
 
 <!---
